@@ -1,0 +1,25 @@
+﻿  cui.c
+  main.c
+  cmdline.c
+  u64tohex.c
+  ultohex.c
+  ultostr.c
+  _strcat.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncmpi.c
+  _strncpy.c
+main.c(428): warning C4127: conditional expression is constant
+main.c(532): warning C4127: conditional expression is constant
+main.c(662): warning C4127: conditional expression is constant
+main.c(732): warning C4127: conditional expression is constant
+main.c(866): warning C4127: conditional expression is constant
+main.c(1185): warning C4013: '__security_init_cookie' undefined; assuming extern returning int
+main.c(1259): warning C4127: conditional expression is constant
+LINK : warning LNK4044: unrecognized option '/NOCOFFGRPINFO'; ignored
+  Generating code
+  Finished generating code
+LIBCMT.lib(cpu_disp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  sxsexp.vcxproj -> C:\Users\Elad\Desktop\SXSEXP\Source\sxsexp\.\output\x64\Release\sxsexp64.exe

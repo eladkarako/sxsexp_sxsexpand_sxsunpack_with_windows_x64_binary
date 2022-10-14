@@ -1,0 +1,24 @@
+.gitattributes            text    eol=crlf
+
+*.mui                     binary
+*.exe                     binary
+*.res                     binary
+*.pdb                     binary
+*.ico                     binary
+*.obj                     binary
+*.dll                     binary
+*.nfo                     text    eol=crlf
+*.cmd                     text    eol=crlf
+*.xml                     text    eol=crlf
+*.txt                     text    eol=crlf
+*.manifest                text    eol=crlf
+*.h                       text    eol=crlf
+*.c                       text    eol=crlf
+*.suo                     text    eol=crlf
+*.sln                     text    eol=crlf
+*.vcxproj                 text    eol=crlf
+*.vcxproj.filters         text    eol=crlf
+*.vcxproj.user            text    eol=crlf
+*.md                              eol=crlf
+README.md                         eol=crlf
+
